@@ -5,3 +5,9 @@
 - You can find the cucumber reports after the execution under target>cucumber-html-reports
 
 - End to end tests are working fine, I have noticed some times false failures due to the timing issues
+
+- Given the time I could make it better with timeouts
+
+- Many steps are reusable by passing different parameters from scenario
+
+- Test runner is configured with "@PetAPI" which would execute asked task
