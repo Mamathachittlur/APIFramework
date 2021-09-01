@@ -1,4 +1,4 @@
-- I had to the send request twice for some scenarios and validate, as its caching the response and not returning right results every single time.
+- I had to the send request twice for some scenarios and validate, as API caching the response and not returning right results every single time.
 
 - I have used Rest Assured and cucumber for the framework
 
