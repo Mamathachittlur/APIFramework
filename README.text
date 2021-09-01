@@ -1,0 +1,7 @@
+- I had to the send request twice for some scenarios and validate, as its caching the response and not returning right results every single time.
+
+- I have used Rest Assured and cucumber for the framework
+
+- You can find the cucumber reports after the execution under target>cucumber-html-reports
+
+- End to end tests are working fine, I have noticed some times false failures due to the timing issues
